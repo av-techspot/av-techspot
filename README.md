@@ -23,15 +23,17 @@
 ***
 
 <h3>Tech stack:</h3>
+<p align="left">
 <img src="img/python.png" height="40"></a>
 <img src="img/django.png" height="40"></a>
 <img src="img/SQLite.png" height="40"></a>
+<img src="img/HTML5.png" height="40"></a>
 <img src="img/Linux.png" height="40"></a>
 <img src="img/nginx.png" height="40"></a>
 <img src="img/Markdown.png" height="40"></a>
 <img src="img/Bash.png" height="40"></a>
 <img src="img/git.png" height="40"></a>
-<img src="img/git.png" height="40"></a>
+</p>
 
 ***
 [![trophy](https://github-profile-trophy.vercel.app/?username=AHolstein&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
