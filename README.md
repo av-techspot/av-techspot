@@ -33,6 +33,7 @@
 <img src="img/Markdown.png" height="40"></a>
 <img src="img/Bash.png" height="40"></a>
 <img src="img/git.png" height="40"></a>
+<img src="img/Photoshop.png" height="40"></a>
 </p>
 
 ***
