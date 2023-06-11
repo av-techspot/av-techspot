@@ -24,18 +24,18 @@
 
 <h3>Tech stack:</h3>
 <p align="left">
-<img src="img/python.png" height="40"></a>
-<img src="img/dj.png" height="40"></a>
-<img src="img/SQLite.png" height="40"></a>
-<img src="img/HTML5.png" height="40"></a>
-<img src="img/Linux.png" height="40"></a>
-<img src="img/nginx.png" height="40"></a>
-<img src="img/Markdown.png" height="40"></a>
-<img src="img/Bash.png" height="40"></a>
-<img src="img/git.png" height="40"></a>
-<img src="img/Photoshop.png" height="40"></a>
-<img src="img/vscode.png" height="40"></a>
-<img src="img/pycharm.png" height="40"></a>
+<img src="img/python.png" width="30"></a>
+<img src="img/dj.png" width="30"></a>
+<img src="img/SQLite.png" width="30"></a>
+<img src="img/HTML5.png" width="30"></a>
+<img src="img/Linux.png" width="30"></a>
+<img src="img/nginx.png" width="30"></a>
+<img src="img/Markdown.png" width="30"></a>
+<img src="img/Bash.png" width="30"></a>
+<img src="img/git.png" width="30"></a>
+<img src="img/Photoshop.png" width="30"></a>
+<img src="img/vscode.png" width="30"></a>
+<img src="img/pycharm.png" width="30"></a>
 </p>
 
 ***
