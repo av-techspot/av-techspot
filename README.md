@@ -37,6 +37,3 @@
 <img src="img/vscode.png" width="30"></a>
 <img src="img/pycharm.png" width="30"></a>
 </p>
-
-***
-[![trophy](https://github-profile-trophy.vercel.app/?username=AHolstein&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
