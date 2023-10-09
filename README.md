@@ -36,4 +36,7 @@
 <img src="img/pycharm.png" width="30"></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+***
+
+<h3>Statistics:</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=av-techspot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
