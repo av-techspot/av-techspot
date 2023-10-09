@@ -3,7 +3,7 @@
   <a href="https://t.me/philobeat"><img src="img/AV_github_banner copy.png" width="500"></a>
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+development+student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+developer" alt="Typing SVG" /></a>
 </p>
 
 [![codewars](https://www.codewars.com/users/MadeOfMeat/badges/small)](https://www.codewars.com/users/MadeOfMeat)
