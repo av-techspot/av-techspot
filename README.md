@@ -16,6 +16,7 @@
 <h3>Connect with me:</h3>
 <a href="https://t.me/philobeat"><img src="img/telegram.png" width="30"></a>
 <a href="https://www.linkedin.com/in/andrey-vasilev-949722255/"><img src="img/LinkedIn.png" width="30"></a>
+<a href="mailto:philobeat@gmail.com"><img src="img/Gmail_icon_(2020).svg.png" width="30"></a>
 
 ***
 
