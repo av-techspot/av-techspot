@@ -39,4 +39,7 @@
 ***
 
 <h3>Statistics:</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=av-techspot&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=av-techspot&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=av-techspot&layouts=compact" />
+  </picture>
