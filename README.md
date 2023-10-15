@@ -22,19 +22,6 @@
 
 <h3>Tech stack:</h3>
 <p align="left">
-<! <img src="img/python.png" width="30"></a>
-<img src="img/dj.png" width="30"></a>
-<img src="img/SQLite.png" width="30"></a>
-<img src="img/HTML5.png" width="30"></a>
-<img src="img/Linux.png" width="30"></a>
-<img src="img/nginx.png" width="30"></a>
-<img src="img/Markdown.png" width="30"></a>
-<img src="img/Bash.png" width="30"></a>
-<img src="img/git.png" width="30"></a>
-<img src="img/Photoshop.png" width="30"></a>
-<img src="img/vscode.png" width="30"></a>
-<img src="img/pycharm.png" width="30"></a> >
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
