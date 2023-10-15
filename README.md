@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">
-  <a href="https://t.me/philobeat"><img src="img/AV_github_banner copy.png" width="400"></a>
+  <a href="https://t.me/philobeat"><img src="img/AV_github_banner copy.png" width="300"></a>
 </p>
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
