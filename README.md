@@ -10,7 +10,7 @@
 - 🌱 I’m currently keep learning Python, Django, DRF, SQL
 - 👯 I’m looking to collaborate on any Django projects or telegram bots
 - 🤔 I’m looking for friends and mentors
-- 🗣️ I speak Russian (native), English (B2) (EF SET certificate)
+- 🗣️ I speak Russian (native), English (B2) <a href="diplomas and certificates/EF SET Certificate.pdf">(EF SET certificate)</a>
 
 ***
 
