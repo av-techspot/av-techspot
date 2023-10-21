@@ -41,11 +41,3 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 </p>
-
-***
-
-<h3>Statistics:</h3>
-<picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=av-techspot&layout=compact" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=av-techspot&layouts=compact" />
-  </picture>
