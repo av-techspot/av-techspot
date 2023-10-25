@@ -12,7 +12,7 @@
 - 🔎 I’m looking for friends and mentors
 - 🗣️ I speak Russian (native), English (B2) <a href="diplomas and certificates/EF SET Certificate.pdf">(EF SET certificate)</a>
 
-***
+&nbsp;
 
 <h3>Connect with me:</h3>
 <a href="https://t.me/philobeat"><img src="img/telegram.png" width="30"></a>&nbsp; &nbsp;
