@@ -3,7 +3,6 @@
   <a href="https://t.me/philobeat"><img src="img/AV_github_banner copy.png" width="300"></a>
 </p>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+backend+developer" alt="Typing SVG" /></a>
 </p>
 
