@@ -7,7 +7,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+backend+developer" alt="Typing SVG" /></a>
 </p>
 
-- 🌱 I have some good experience with Python, Django, DRF, SQL
+- 🌱 I have some good experience with Python, Django, DRF
 - ⚙️ I'm currently working on a commercial project for artists Artweekend
 - 📖 Now I'm learning Asyncio and plan to dive into FastAPI
 - 👯 I’m looking to collaborate on any Django projects or telegram bots
