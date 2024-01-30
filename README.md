@@ -8,8 +8,7 @@
 </p>
 
 - 🌱 I have some good experience with Python, Django, DRF
-- ⚙️ I'm currently working on a commercial project for artists Artweekend
-- 📖 Now I'm learning Asyncio and plan to dive into FastAPI
+- 📖 Now I'm learning Asyncio, Aiogram and plan to dive into FastAPI
 - 👯 I’m looking to collaborate on any Django projects or telegram bots
 - 🔎 I’m looking for friends and mentors
 - 🗣️ I speak Russian (native), English (B2) <a href="diplomas and certificates/EF SET Certificate.pdf">(EF SET certificate)</a>
