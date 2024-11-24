@@ -7,8 +7,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Python+developer" alt="Typing SVG" /></a>
 </p>
 
-- 🌱 I have some good experience with Python, Django, DRF and Docker
-- 👨‍💻 Now I'm working with Asyncio, Aiogram, FastAPI, MongoDB and Redis
+- 🌱 I have some good experience with Python, Django, DRF, Docker Compose and Aiogram
+- 👨‍💻 Now I'm working with Asyncio, FastAPI, SQLalchemy, MongoDB and Redis
 - 🗣️ I speak Russian (native), English (B2) <a href="diplomas and certificates/EF SET Certificate.pdf">(EF SET certificate)</a>
 
 <h3>Connect with me:</h3>
