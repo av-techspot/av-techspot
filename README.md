@@ -8,7 +8,7 @@
 </p>
 
 - 🌱 I have over 2 years of Python development experience
-- 👨‍💻 Now I'm working with FastAPI, SQLalchemy, PostgreSQL, Aiogram
+- 👨‍💻 Now I'm working with AI, n8n/Make, FastAPI, SQLalchemy, PostgreSQL, Aiogram
 - 🗣️ I speak Russian (native), English (B2) <a href="diplomas and certificates/EF SET Certificate.pdf">(EF SET certificate)</a>
 
 <h3>Connect with me:</h3>
